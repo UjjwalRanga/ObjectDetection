@@ -1,0 +1,10 @@
+<resources>
+    <string name="tfe_od_app_name" translation_description="Object Detection demo app [CHAR_LIMIT=40]">Blind Project</string>
+    <string name="tfe_od_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+    <string name="describe_scene">DESCRIBE SCENE</string>
+    <string name="find_faces">FIND FACES</string>
+    <string name="todo">TODO</string>
+    <string name="face_recognition">FACE RECOGNITION</string>
+    <string name="add_face">ADD FACE</string>
+
+</resources>
